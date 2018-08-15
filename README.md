@@ -1,6 +1,6 @@
 # Introduction
 
-It's an Arduino project to configure the ESP8266 microcontroller to read the swimming pool temperature every N minutes using DS18B20 sensor.
+Arduino project to configure the ESP8266 microcontroller to read the swimming pool temperature every N minutes using DS18B20 sensor.
 
 The temperature data is sent through a WIFI connection to ThingSpeak service to can visualise it.
 
