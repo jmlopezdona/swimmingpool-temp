@@ -35,3 +35,4 @@ If you are thinking to make a real sensor you need remove some parts or NodeMCU 
 - [ESP8266 Deep Sleep](https://randomnerdtutorials.com/esp8266-deep-sleep-with-arduino-ide/)
 - [Programming ESP8266 using Arduino UNO](https://myelectronicslab.com/programming-esp8266-using-arduino-uno/)
 - [Program ESP8266 ESP-12E With Arduino](https://www.hackster.io/harshmangukiya/program-esp8266-esp-12e-with-arduino-using-ftdi-cable-2310c9)
+- [Programming ESP8266 ESP-12E](https://circuiteasy.com/programming-wi-fi-module-esp-8266/)
